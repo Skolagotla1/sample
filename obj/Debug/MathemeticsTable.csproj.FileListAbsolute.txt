@@ -1,0 +1,12 @@
+C:\Users\Dhiraj\Documents\Visual Studio 2015\Projects\LearningCSharp\MathemeticsTable\bin\Debug\MathemeticsTable.exe.config
+C:\Users\Dhiraj\Documents\Visual Studio 2015\Projects\LearningCSharp\MathemeticsTable\bin\Debug\MathemeticsTable.exe
+C:\Users\Dhiraj\Documents\Visual Studio 2015\Projects\LearningCSharp\MathemeticsTable\bin\Debug\MathemeticsTable.pdb
+C:\Users\Dhiraj\Documents\Visual Studio 2015\Projects\LearningCSharp\MathemeticsTable\obj\Debug\MathemeticsTable.exe
+C:\Users\Dhiraj\Documents\Visual Studio 2015\Projects\LearningCSharp\MathemeticsTable\obj\Debug\MathemeticsTable.pdb
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\MathemeticsTable\bin\Debug\MathemeticsTable.exe.config
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\MathemeticsTable\bin\Debug\MathemeticsTable.exe
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\MathemeticsTable\bin\Debug\MathemeticsTable.pdb
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\MathemeticsTable\obj\Debug\MathemeticsTable.csproj.CoreCompileInputs.cache
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\MathemeticsTable\obj\Debug\MathemeticsTable.exe
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\MathemeticsTable\obj\Debug\MathemeticsTable.pdb
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\MathemeticsTable\obj\Debug\MathemeticsTable.csprojAssemblyReference.cache
